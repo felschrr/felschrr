@@ -1,6 +1,6 @@
 # Hi there 👋  
   
-Web developer student, currently in my 3rd year of **BUT Métiers du multimedia et de l'internet**  
+Web developer student, currently in my 3rd year of **BUT Métiers du multimedia et de l'internet**  🇫🇷  
   
 - 🔭 I’m currently working on 2 projects :
     - **Skinpso**, a React app to track your CS2 skins investments  
