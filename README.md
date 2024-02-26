@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felschrr&layout=compact&theme=dracula)  
-`NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i used the most, it's a new feature of github-readme-stats`  
+`NOTE: Most used languages does not indicate my skill level, it's a Github metric of which languages I use the most, it's a new feature of github-readme-stats`  
