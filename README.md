@@ -7,7 +7,6 @@
     - **Ipso.gg**, a React app to track your League of Legends game history  
   
 - 📫 How to reach me: [E-mail](mailto:felix.scherer@etu-umontpellier.fr)  
-- 😄 Pronouns: he/him
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felschrr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 `NOTE: Most used languages does not indicate my skill level, it's a Github metric of which languages I use the most.`  
