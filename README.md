@@ -3,8 +3,8 @@
 🇫🇷 My name is Félix, and I am a Web developer student, currently in my 3rd year of **BUT Métiers du multimedia et de l'internet**  
   
 - 🔭 I’m currently working on 2 projects :
-    - **Skinpso**, a React app to track your CS2 skins investments  
-    - **Ipso.gg**, a React app to track your League of Legends game history  
+    - [**Skinpso**](https://github.com/felschrr/Skinpso), a React app to track your CS2 skins investments  
+    - [**Ipso.gg**](https://github.com/felschrr/Ipso.gg), a React app to track your League of Legends game history  
   
 - 📫 How to reach me: [E-mail](mailto:felix.scherer@etu-umontpellier.fr)  
   
