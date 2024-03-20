@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently working on some of my projects :
     - [**Skinpso**](https://github.com/felschrr/Skinpso), a React app to track your CS2 skins investments.
-    - [**Ipso Anime**](https://github.com/felschrr/Ipso_Anime), a React app to track users favourites anime & mangas and bookmark them.     
+    - [**Ipso Anime**](https://github.com/felschrr/Ipso_Anime), a React app to track your favourites animes/mangas and get notifications when a new episode/chapter is released  
     - [**Ipso.gg**](https://github.com/felschrr/Ipso.gg), a React app to track your League of Legends stats & game history.  
   
 - 📫 How to reach me: [E-mail 📧](mailto:felix.scherer@etu-umontpellier.fr)  
