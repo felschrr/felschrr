@@ -1,6 +1,6 @@
 # Hi there 👋  
   
-🇫🇷 My name is Félix, and I am a Web developer student, currently in my 3rd year of **BUT Métiers du multimedia et de l'internet**.  
+🇫🇷 My name is Félix, and I am a Web developer student, currently studying in **Master 1 Produits et services multimédias**.  
   
 - 🔭 I’m currently working on some of my personal projects as a hobby :
     - [**Skinpso**](https://github.com/felschrr/skinpso), a React app to track your CS2 skins investments.
