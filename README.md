@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on some of my personal projects as a hobby :
     - [**Skinpso**](https://github.com/felschrr/skinpso), a React app to track your CS2 skins investments.
     - [**Ipso Anime**](https://github.com/felschrr/ipso-anime), a React app to track your favourites animes/mangas and get notifications when a new episode/chapter is released  
-    - [**Ipso.gg**](https://github.com/felschrr/ipso-gg), a NextJS app to track your League of Legends stats & game history.  
+    - [**Ipso.gg**](https://github.com/felschrr/ipso-gg), a NextJS app to track your League of Legends stats & game history.
+ 
+- [**Here**](https://github.com/felschrrQc/) is my second GitHub account that I used during my international mobility in Saint-Jérôme, Canada 🇨🇦
   
 - 📫 How to reach me: [E-mail 📧](mailto:felix.scherer@etu-umontpellier.fr)  
   
