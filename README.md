@@ -19,8 +19,9 @@ Hey! I'm Félix, a Web Developer student currently pursuing **Master 2 Produits 
 ---
 
 ## 📂 Featured Projects
-- **[Ipsound](https://ipsound.vercel.app/)** – Next.js music player app
-- **[TrackSpend](https://track-spend-fe-sprint1.vercel.app)** – Vue.js expenses & budget tracking app   
+- **[PrimeCart](https://tdw-final.vercel.app/)** - Next.js e-commerce application with Stripe integration | [Visit repository](https://github.com/felschrr/primecart)  
+- **[TrackSpend](https://track-spend-fe-sprint1.vercel.app)** – Vue.js expenses & budget tracking application | [Private repository](#)  
+- **[Ipsound](https://ipsound.vercel.app/)** – Next.js music player application | [Visit repository](https://github.com/felschrr/primecart)  
 
 ---
 
