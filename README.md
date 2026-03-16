@@ -13,7 +13,7 @@ Hey! I'm Félix, a Web Developer student currently pursuing **Master 2 Produits 
 
 ## 💻 Technologies
 **Frontend:** Next.js, Angular, Vue.js, HTML, CSS, JavaScript, TypeScript  
-**Backend:** Django REST, Flask  
+**Backend:** Django, Flask  
 **Other tools:** Git, CI/CD, REST APIs  
 
 ---
