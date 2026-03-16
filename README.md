@@ -25,8 +25,9 @@ Hey! I'm Félix, a Web Developer student currently pursuing **Master 2 Produits 
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felschrr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felschrr&theme=dracula)](https://git.io/streak-stats)  
+| Top Langs | GitHub Streak | Visites |
+|-----------|---------------|---------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felschrr&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felschrr&theme=dracula)](https://git.io/streak-stats) | ![](https://komarev.com/ghpvc/?username=felschrr&color=800e13) |
 <!---
 [![Trophies](https://github-profile-trophy.vercel.app/?username=felschrr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)  
 -->
