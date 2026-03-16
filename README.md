@@ -20,7 +20,7 @@ Hey! I'm Félix, a Web Developer student currently pursuing **Master 2 Produits 
 
 ## 📂 Featured Projects
 - **[Ipsound](https://ipsound.vercel.app/)** – Next.js music player app
-- **[TrackSpend](track-spend-fe-sprint1.vercel.app)** – Vue.js expenses & budget tracking app   
+- **[TrackSpend](https://track-spend-fe-sprint1.vercel.app)** – Vue.js expenses & budget tracking app   
 
 ---
 
